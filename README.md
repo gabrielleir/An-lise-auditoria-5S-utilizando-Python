@@ -14,3 +14,5 @@ Após a criação deste código em Python, a análise passou a ser feita em cerc
 No código, primeiramente temos a leitura das tabelas, seguido de um pequeno pré-tratamento dos dados, com a retirada de colunas sem relevância para as análises. Após, é feita a separação dos planos de ação de cada setor, seguida da inserção da média para cada 'S' auditado.
 Então, duas tabela são geradas, que eram analisadas e compiladas por outro colaborador para a apresentação dos resultados.
 
+Um exemplo de respostas para serem testadas no código pode ser encontrado [aqui](https://drive.google.com/drive/folders/1QCbNOUnos-ZmFKWx55qfa3vxxa0_T12M?usp=drive_link).
+
